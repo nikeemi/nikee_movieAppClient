@@ -1,0 +1,8 @@
+{
+    "url": "https://movieapp-api-lms1.onrender.com",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "movies": "/movies"
+    }
+}
